@@ -1,4 +1,4 @@
-# carousel
+# Notus Test Front end (VUE)
 
 ## Project setup
 ```
